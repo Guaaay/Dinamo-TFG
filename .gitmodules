@@ -1,0 +1,3 @@
+[submodule "TFGDinamo"]
+	path = TFGDinamo
+	url = git@github.com:Guaaay/TFGDinamo.git
